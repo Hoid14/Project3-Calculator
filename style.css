@@ -1,0 +1,11 @@
+.contenedor {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    height: 100vh; /* 100% de la altura de la ventana gráfica */
+}
+.calculadora {
+    display: flex;
+    justify-content: center;
+    border: 1px solid #000;
+}
